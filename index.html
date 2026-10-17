@@ -92,7 +92,21 @@ body {
 		</style>
 		<link id="-gd-engine-icon" rel="icon" type="image/png" href="index.icon.png" />
 <link rel="apple-touch-icon" href="index.apple-touch-icon.png"/>
-
+<style>html, body, #canvas { touch-action: none; overscroll-behavior: none; }</style><script>// Keep Safari's page gestures from competing with the game's touch gestures.
+(() => {
+  "use strict";
+  document.addEventListener("DOMContentLoaded", () => {
+    const canvas = document.getElementById("canvas");
+    if (!canvas) return;
+    canvas.style.touchAction = "none";
+    for (const name of ["touchstart", "touchmove", "touchend", "gesturestart", "gesturechange", "gestureend"]) {
+      canvas.addEventListener(name, event => {
+        if (event.cancelable) event.preventDefault();
+      }, { passive: false });
+    }
+  });
+})();
+</script>
 	</head>
 	<body>
 		<canvas id="canvas">
@@ -111,7 +125,7 @@ body {
 
 		<script src="index.js"></script>
 		<script>
-const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":36961640,"index.wasm":37902138},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":31304476,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
 const GODOT_THREADS_ENABLED = false;
 const engine = new Engine(GODOT_CONFIG);
 
