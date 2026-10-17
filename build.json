@@ -1,8 +1,8 @@
 {
   "version": "0.9.0-rc1",
   "input_build": "TOUCH-3",
-  "built_utc": "2026-10-17T03:42:06.9402257Z",
-  "pack": "iron-wake-05ae8a593f6a.pck",
-  "pack_sha256": "05ae8a593f6a10ee452f0ce199f0b3ea7f0aaf859245f1774dc32543ba6c817b",
-  "pack_bytes": 32940824
+  "built_utc": "2026-10-17T03:46:06.5281855Z",
+  "pack": "iron-wake-b75bc4e2c525.pck",
+  "pack_sha256": "b75bc4e2c52583bb8d4b60163d789a798a9280335bc020107dc2bee7fb75ab0d",
+  "pack_bytes": 34012700
 }
