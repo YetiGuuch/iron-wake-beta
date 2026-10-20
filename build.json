@@ -1,8 +1,8 @@
 {
   "version": "0.9.0-rc1",
-  "input_build": "TACTICAL-CHOICES-4",
-  "built_utc": "2026-10-20T13:22:02.5173633Z",
-  "pack": "iron-wake-872a021beaf1.pck",
-  "pack_sha256": "872a021beaf123e165344dc6b601e09f1fdda0e57de3baf4e2f451819a2dcc15",
-  "pack_bytes": 45320260
+  "input_build": "SHORE-RPG-5",
+  "built_utc": "2026-10-20T13:51:22.4460403Z",
+  "pack": "iron-wake-be9813339281.pck",
+  "pack_sha256": "be9813339281a3c895bdabf16ee70df2f5243f3172ae2ec546a8f0c8985d733f",
+  "pack_bytes": 46904580
 }
