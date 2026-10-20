@@ -1,8 +1,8 @@
 {
   "version": "0.9.0-rc1",
-  "input_build": "GROUND-POLISH-3",
-  "built_utc": "2026-10-20T06:37:39.7285876Z",
-  "pack": "iron-wake-2e9ace1e8953.pck",
-  "pack_sha256": "2e9ace1e8953dc9ec222cb268303188c123bc0d6ca2bef1509402519f8252d24",
-  "pack_bytes": 45312336
+  "input_build": "TACTICAL-CHOICES-4",
+  "built_utc": "2026-10-20T13:22:02.5173633Z",
+  "pack": "iron-wake-872a021beaf1.pck",
+  "pack_sha256": "872a021beaf123e165344dc6b601e09f1fdda0e57de3baf4e2f451819a2dcc15",
+  "pack_bytes": 45320260
 }
