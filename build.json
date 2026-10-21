@@ -1,8 +1,8 @@
 {
   "version": "0.9.0-rc1",
-  "input_build": "SHORE-RPG-5",
-  "built_utc": "2026-10-20T13:51:22.4460403Z",
-  "pack": "iron-wake-be9813339281.pck",
-  "pack_sha256": "be9813339281a3c895bdabf16ee70df2f5243f3172ae2ec546a8f0c8985d733f",
-  "pack_bytes": 46904580
+  "input_build": "RPG-WORLD-6",
+  "built_utc": "2026-10-21T03:29:19.7290726Z",
+  "pack": "iron-wake-b29bde6a9af5.pck",
+  "pack_sha256": "b29bde6a9af5a1336dff10dd2eb8d17cce9dada845c06808b24a8362b121e815",
+  "pack_bytes": 51151688
 }
