@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc2",
-  "input_build": "RELEASE-POLISH-8",
-  "built_utc": "2026-10-21T04:17:49.6572475Z",
-  "pack": "iron-wake-bf3ac9c4af5d.pck",
-  "pack_sha256": "bf3ac9c4af5d495420abfbbb74310f68f0bf30b7697c4eb9304049b38daa1f32",
-  "pack_bytes": 51178804
+  "version": "0.9.0-rc3",
+  "input_build": "SHORE-ADVENTURE-9",
+  "built_utc": "2026-10-21T14:30:39.5454356Z",
+  "pack": "iron-wake-94adf75144a3.pck",
+  "pack_sha256": "94adf75144a35eea6cb457cde502bad14640d9b32d9664f3e0620b806d86b52b",
+  "pack_bytes": 53843004
 }
