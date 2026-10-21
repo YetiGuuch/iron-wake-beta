@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc1",
-  "input_build": "SOLO-ESCAPE-7",
-  "built_utc": "2026-10-21T03:53:18.7469466Z",
-  "pack": "iron-wake-9280f3bb21b3.pck",
-  "pack_sha256": "9280f3bb21b350ea61126de4d6dce1b4f217620f0420e5ea01baf2a4c0accc16",
-  "pack_bytes": 51158924
+  "version": "0.9.0-rc2",
+  "input_build": "RELEASE-POLISH-8",
+  "built_utc": "2026-10-21T04:17:49.6572475Z",
+  "pack": "iron-wake-bf3ac9c4af5d.pck",
+  "pack_sha256": "bf3ac9c4af5d495420abfbbb74310f68f0bf30b7697c4eb9304049b38daa1f32",
+  "pack_bytes": 51178804
 }
