@@ -1,8 +1,8 @@
 {
   "version": "0.9.0-rc1",
-  "input_build": "RPG-WORLD-6",
-  "built_utc": "2026-10-21T03:29:19.7290726Z",
-  "pack": "iron-wake-b29bde6a9af5.pck",
-  "pack_sha256": "b29bde6a9af5a1336dff10dd2eb8d17cce9dada845c06808b24a8362b121e815",
-  "pack_bytes": 51151688
+  "input_build": "SOLO-ESCAPE-7",
+  "built_utc": "2026-10-21T03:53:18.7469466Z",
+  "pack": "iron-wake-9280f3bb21b3.pck",
+  "pack_sha256": "9280f3bb21b350ea61126de4d6dce1b4f217620f0420e5ea01baf2a4c0accc16",
+  "pack_bytes": 51158924
 }
