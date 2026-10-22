@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc9",
-  "input_build": "TACTICAL-MENUS-15",
-  "built_utc": "2026-10-22T05:03:26.0324679Z",
-  "pack": "iron-wake-259d609d0119.pck",
-  "pack_sha256": "259d609d0119fdbc7f314db12d97e87345b6654760030666b09b3368a232d629",
-  "pack_bytes": 61226756
+  "version": "0.9.0-rc10",
+  "input_build": "BLUEWATER-16",
+  "built_utc": "2026-10-22T05:34:32.7832956Z",
+  "pack": "iron-wake-2344c25c4fa2.pck",
+  "pack_sha256": "2344c25c4fa26b3963e83c2f88ee4522b8233209d65ffcfae901c6ac3ae16ba8",
+  "pack_bytes": 61893480
 }
