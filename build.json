@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc7",
-  "input_build": "COMMAND-UI-13",
-  "built_utc": "2026-10-22T02:04:42.0638675Z",
-  "pack": "iron-wake-1e0fc83da05a.pck",
-  "pack_sha256": "1e0fc83da05af9ac0ddb8d253af5f23886e71fdcd4f96b8b6ef05953138abbc8",
-  "pack_bytes": 61200596
+  "version": "0.9.0-rc8",
+  "input_build": "FIELDCRAFT-14",
+  "built_utc": "2026-10-22T04:39:26.3241989Z",
+  "pack": "iron-wake-d97eee49a6ec.pck",
+  "pack_sha256": "d97eee49a6eca437c7a28fc9a13a2c790b667bda46a0387c8777f9ed422a6c71",
+  "pack_bytes": 61210700
 }
