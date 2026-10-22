@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc5",
-  "input_build": "MISSION-CINEMATICS-11",
-  "built_utc": "2026-10-22T00:06:13.1569406Z",
-  "pack": "iron-wake-978ffad76dd3.pck",
-  "pack_sha256": "978ffad76dd308372aaccc56ec444e96a7f0cdf6e4101938e7553edcd720ad4f",
-  "pack_bytes": 61183324
+  "version": "0.9.0-rc6",
+  "input_build": "NAVAL-CHARTS-12",
+  "built_utc": "2026-10-22T00:32:40.8256987Z",
+  "pack": "iron-wake-ed1c42bf5f4a.pck",
+  "pack_sha256": "ed1c42bf5f4aaae69f169a4896c4a53492cf314b22471fd84a4b718708c8a4e4",
+  "pack_bytes": 61192716
 }
