@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc8",
-  "input_build": "FIELDCRAFT-14",
-  "built_utc": "2026-10-22T04:39:26.3241989Z",
-  "pack": "iron-wake-d97eee49a6ec.pck",
-  "pack_sha256": "d97eee49a6eca437c7a28fc9a13a2c790b667bda46a0387c8777f9ed422a6c71",
-  "pack_bytes": 61210700
+  "version": "0.9.0-rc9",
+  "input_build": "TACTICAL-MENUS-15",
+  "built_utc": "2026-10-22T05:03:26.0324679Z",
+  "pack": "iron-wake-259d609d0119.pck",
+  "pack_sha256": "259d609d0119fdbc7f314db12d97e87345b6654760030666b09b3368a232d629",
+  "pack_bytes": 61226756
 }
