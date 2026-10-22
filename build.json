@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc12",
-  "input_build": "BREAKWATER-18",
-  "built_utc": "2026-10-22T23:24:23.8174010Z",
-  "pack": "iron-wake-ddcc14130c88.pck",
-  "pack_sha256": "ddcc14130c88a85b4e420b9d582d90029e9cf60df74e5347aa2040490328dcc8",
-  "pack_bytes": 61916944
+  "version": "0.9.0-rc13",
+  "input_build": "FIELDCRAFT-19",
+  "built_utc": "2026-10-23T00:02:07.7877761Z",
+  "pack": "iron-wake-d5b25621fae5.pck",
+  "pack_sha256": "d5b25621fae585665ceb8e043f74a38223c949e35d47e26913a3047fe9845ba0",
+  "pack_bytes": 63494432
 }
