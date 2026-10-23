@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc13",
-  "input_build": "FIELDCRAFT-19",
-  "built_utc": "2026-10-23T00:02:07.7877761Z",
-  "pack": "iron-wake-d5b25621fae5.pck",
-  "pack_sha256": "d5b25621fae585665ceb8e043f74a38223c949e35d47e26913a3047fe9845ba0",
-  "pack_bytes": 63494432
+  "version": "0.9.0-rc14",
+  "input_build": "SHORE-OPERATIONS-20",
+  "built_utc": "2026-10-23T00:46:51.4756046Z",
+  "pack": "iron-wake-81077f4e5064.pck",
+  "pack_sha256": "81077f4e50644ff68fc587858987c0c051658c7346a18a8d2c73609fc3eff827",
+  "pack_bytes": 63506804
 }
