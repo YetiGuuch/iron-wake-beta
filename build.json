@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc18",
-  "input_build": "OPEN-OPERATIONS-24",
-  "built_utc": "2026-10-23T22:08:09.0966145Z",
-  "pack": "iron-wake-8d9d234969ea.pck",
-  "pack_sha256": "8d9d234969ea903e1a2dcbb9df78c1ec4aea17702ce4074d4e0fb13570d127c2",
-  "pack_bytes": 63616824
+  "version": "0.9.0-rc19",
+  "input_build": "COMMAND-REFINEMENT-25",
+  "built_utc": "2026-10-23T23:05:22.2794482Z",
+  "pack": "iron-wake-7c9169a744ac.pck",
+  "pack_sha256": "7c9169a744acdcb8badf897ec30986d813bc4602a5044f421f6bf4afaff012ff",
+  "pack_bytes": 63630796
 }
