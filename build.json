@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc17",
-  "input_build": "HORMUZ-23",
-  "built_utc": "2026-10-23T13:41:22.3428655Z",
-  "pack": "iron-wake-6ded7658ee83.pck",
-  "pack_sha256": "6ded7658ee83aad0e6f80848debb98450003aba26ce38f570485abe023329e2c",
-  "pack_bytes": 63617064
+  "version": "0.9.0-rc18",
+  "input_build": "OPEN-OPERATIONS-24",
+  "built_utc": "2026-10-23T22:08:09.0966145Z",
+  "pack": "iron-wake-8d9d234969ea.pck",
+  "pack_sha256": "8d9d234969ea903e1a2dcbb9df78c1ec4aea17702ce4074d4e0fb13570d127c2",
+  "pack_bytes": 63616824
 }
