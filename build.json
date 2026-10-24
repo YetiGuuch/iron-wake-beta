@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-rc19",
-  "input_build": "COMMAND-REFINEMENT-25",
-  "built_utc": "2026-10-23T23:05:22.2794482Z",
-  "pack": "iron-wake-7c9169a744ac.pck",
-  "pack_sha256": "7c9169a744acdcb8badf897ec30986d813bc4602a5044f421f6bf4afaff012ff",
-  "pack_bytes": 63630796
+  "version": "0.9.0-rc20",
+  "input_build": "WORLD-WATCH-26",
+  "built_utc": "2026-10-24T00:12:36.7869857Z",
+  "pack": "iron-wake-c96b4ec269fd.pck",
+  "pack_sha256": "c96b4ec269fd55c7b8e3cd414633667067dcec4df923a922453c29e45aef2590",
+  "pack_bytes": 63739772
 }
